@@ -17,7 +17,7 @@ If the request is valid, return a slice of booleans either the number was prime 
 Инструкция:
 (Makefile)
 
-1. git clone https://github.com/Kravets21/golang-testing-task.git
+1. git clone https://github.com/v21kravets/golang-testing-task.git
 2. cd golang-testing-task
 
 3. (Если ГО установлен тогда make run)
